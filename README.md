@@ -61,8 +61,8 @@ Interactive filters: **Year** range and **Global Sales** range.
 .
 ├── README.md
 ├── dashboard.png        
-├── data/              
-└── workbook/        
+├── .gitignore            
+└── data/       
 ```
 
 ## How to explore it
